@@ -1,0 +1,16 @@
+{
+    "cSpell.ignoreWords": [
+        "dropna",
+        "fname",
+        "imread",
+        "imshow",
+        "imwrite",
+        "kato",
+        "keras",
+        "ndimage",
+        "pyplot",
+        "scipy",
+        "sklearn",
+        "tolist"
+    ]
+}
